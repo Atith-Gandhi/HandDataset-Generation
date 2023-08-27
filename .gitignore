@@ -17,3 +17,5 @@ synthetic_hands/
 synthetic_mano_hands/
 tmp/
 .DS_Store
+model/*
+model 
